@@ -32,3 +32,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# demo scenario
+
+- Typography でテキストの追加
+- コメントを追加
+  - `{/* MUI select component */}`
+
+```
+以下の条件を満たすReact componentを出力してください。
+
+- TyeScriptで記述してください
+- mui v5のライブラリを使用します
+- mui v5 のselect コンポーネントを使用して「選択１」、「選択２」、「選択３」から選択できるようにして下さい。
+- 選択肢は配列で定義されます。例：[”選択１”, ”選択２”, ”選択３”]
+- selectで選択した後に、その下の「Enter」ボタンをクリックしたら選択したアイテムがアラートで表示されるようにしてください。
+```
+
+- このコードの概要を教えてください。
+- このコンポーネントにキャンセルボタンを追加して、ボタンをクリックしたら、選択を解除してください。
+- キャンセルボタンの位置を変えます。右寄せにしてください
+- キャンセルボタンの位置だけを変えます。右寄せにしてください
